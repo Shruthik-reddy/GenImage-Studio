@@ -18,8 +18,10 @@ Built with the MERN stack and Vite + React for a modern, lightning-fast developm
 ☁️ Integrated with Cloudinary for fast and efficient image hosting.
 
 🌍 Deployed on Render for global access.
-
+Demo:
 ![App Demo](assets/demo.gif)
+
+creating new image:
 ![App Demo](assets/create.gif)
 
 
